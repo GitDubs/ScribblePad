@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ScribblePad" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/app/src/main/java/edu/pitt/cs/cs1635/bra30/scribblepad" vcs="Git" />
   </component>
 </project>
